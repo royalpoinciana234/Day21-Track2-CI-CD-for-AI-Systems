@@ -17,6 +17,7 @@ def train(
     params: dict,
     data_path: str = "data/train_phase1.csv",
     eval_path: str = "data/eval.csv",
+    extra_data_path: str = "data/train_phase2.csv",
 ) -> float:
     """
     Huan luyen mo hinh va ghi nhan ket qua vao MLflow.
@@ -31,7 +32,10 @@ def train(
     """
 
     # TODO 1: Doc du lieu huan luyen va danh gia
-    df_train = pd.read_csv(data_path)
+    parts = [pd.read_csv(data_path)]
+    if extra_data_path and os.path.exists(extra_data_path):
+        parts.append(pd.read_csv(extra_data_path))
+    df_train = pd.concat(parts, ignore_index=True)
     df_eval  = pd.read_csv(eval_path)
 
     # TODO 2: Tach dac trung (X) va nhan (y)
