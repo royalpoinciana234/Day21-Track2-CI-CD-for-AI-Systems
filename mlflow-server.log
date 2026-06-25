@@ -1,0 +1,20 @@
+/home/henry/Downloads/AI in action/day21/Day21-Track2-CI-CD-for-AI-Systems/.venv/lib/python3.12/site-packages/mlflow/utils/requirements_utils.py:20: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources  # noqa: TID251
+/home/henry/Downloads/AI in action/day21/Day21-Track2-CI-CD-for-AI-Systems/.venv/lib/python3.12/site-packages/pydantic/_internal/_config.py:386: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+[2026-06-25 11:26:21 +0700] [18745] [INFO] Starting gunicorn 22.0.0
+[2026-06-25 11:26:21 +0700] [18745] [INFO] Listening at: http://0.0.0.0:5000 (18745)
+[2026-06-25 11:26:21 +0700] [18745] [INFO] Using worker: sync
+[2026-06-25 11:26:21 +0700] [18746] [INFO] Booting worker with pid: 18746
+[2026-06-25 11:26:21 +0700] [18747] [INFO] Booting worker with pid: 18747
+[2026-06-25 11:26:21 +0700] [18748] [INFO] Booting worker with pid: 18748
+[2026-06-25 11:26:21 +0700] [18749] [INFO] Booting worker with pid: 18749
+/home/henry/Downloads/AI in action/day21/Day21-Track2-CI-CD-for-AI-Systems/.venv/lib/python3.12/site-packages/mlflow/utils/requirements_utils.py:20: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources  # noqa: TID251
+/home/henry/Downloads/AI in action/day21/Day21-Track2-CI-CD-for-AI-Systems/.venv/lib/python3.12/site-packages/mlflow/utils/requirements_utils.py:20: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources  # noqa: TID251
+/home/henry/Downloads/AI in action/day21/Day21-Track2-CI-CD-for-AI-Systems/.venv/lib/python3.12/site-packages/mlflow/utils/requirements_utils.py:20: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources  # noqa: TID251
+/home/henry/Downloads/AI in action/day21/Day21-Track2-CI-CD-for-AI-Systems/.venv/lib/python3.12/site-packages/mlflow/utils/requirements_utils.py:20: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources  # noqa: TID251

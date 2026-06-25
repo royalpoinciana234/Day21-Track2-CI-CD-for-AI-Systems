@@ -1,0 +1,15 @@
+artifact_uri: file:///home/henry/Downloads/AI%20in%20action/day21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/63caa5601ac6442283e102ca36bea889/artifacts
+end_time: 1782360553264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63caa5601ac6442283e102ca36bea889
+run_name: dapper-boar-772
+run_uuid: 63caa5601ac6442283e102ca36bea889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782360547488
+status: 3
+tags: []
+user_id: henry

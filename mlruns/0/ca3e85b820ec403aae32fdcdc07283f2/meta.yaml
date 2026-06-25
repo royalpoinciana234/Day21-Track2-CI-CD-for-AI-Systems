@@ -1,0 +1,15 @@
+artifact_uri: file:///home/henry/Downloads/AI%20in%20action/day21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/ca3e85b820ec403aae32fdcdc07283f2/artifacts
+end_time: 1782360479311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca3e85b820ec403aae32fdcdc07283f2
+run_name: luxuriant-mare-32
+run_uuid: ca3e85b820ec403aae32fdcdc07283f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782360475722
+status: 3
+tags: []
+user_id: henry

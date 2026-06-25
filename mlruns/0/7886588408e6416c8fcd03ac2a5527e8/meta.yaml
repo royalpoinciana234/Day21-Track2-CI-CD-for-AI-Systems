@@ -1,0 +1,15 @@
+artifact_uri: file:///home/henry/Downloads/AI%20in%20action/day21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/7886588408e6416c8fcd03ac2a5527e8/artifacts
+end_time: 1782360574128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7886588408e6416c8fcd03ac2a5527e8
+run_name: fun-gnat-632
+run_uuid: 7886588408e6416c8fcd03ac2a5527e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782360568252
+status: 3
+tags: []
+user_id: henry

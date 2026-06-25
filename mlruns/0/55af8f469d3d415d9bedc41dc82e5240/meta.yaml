@@ -1,0 +1,15 @@
+artifact_uri: file:///home/henry/Downloads/AI%20in%20action/day21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/55af8f469d3d415d9bedc41dc82e5240/artifacts
+end_time: 1782360421595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55af8f469d3d415d9bedc41dc82e5240
+run_name: redolent-snipe-316
+run_uuid: 55af8f469d3d415d9bedc41dc82e5240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782360417585
+status: 3
+tags: []
+user_id: henry
